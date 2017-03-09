@@ -10,3 +10,6 @@
 # opencv相关
 * [opencv2.4.9 SuperResolution函数介绍](https://github.com/yan647/Blog/issues/3 )
 * [Point2D转为CvPoint](https://github.com/yan647/Blog/issues/4 )
+
+# 前端相关
+* [JavaScript和C++中的函数的参数传递](https://github.com/yan647/Blog/issues/9)
