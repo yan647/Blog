@@ -16,6 +16,10 @@
 * [JS：产生随机数](https://github.com/yan647/Blog/issues/10)
 * [webpack学习](https://github.com/yan647/Blog/blob/master/webpack.md)
 * [什么是代理及实现代理的7种方案](https://github.com/yan647/Blog/issues/12)
+* [eslint中extends plugin config的区别](https://github.com/yan647/Blog/issues/13)
+
+# 《Effective TypeScript》重要章节翻译
+* [第一章 Item1](https://github.com/yan647/learnEffectiveTypeScript/blob/main/translation/item3.md)
 
 # 算法相关
 * [JavaScript实现斐波那契数列的五种方法](https://github.com/yan647/Blog/issues/11)
