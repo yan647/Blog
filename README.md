@@ -17,6 +17,7 @@
 * [webpack学习](https://github.com/yan647/Blog/blob/master/webpack.md)
 * [什么是代理及实现代理的7种方案](https://github.com/yan647/Blog/issues/12)
 * [eslint中extends plugin config的区别](https://github.com/yan647/Blog/issues/13)
+* [Vue.component VS Vue.extend VS Vue.mixin VS new Vue](https://github.com/yan647/Blog/issues/14)
 
 # 《Effective TypeScript》重要章节翻译
 * [第一章 Item3](https://github.com/yan647/learnEffectiveTypeScript/blob/main/translation/item3.md)
