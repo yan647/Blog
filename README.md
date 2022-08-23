@@ -19,6 +19,9 @@
 * [eslint中extends plugin config的区别](https://github.com/yan647/Blog/issues/13)
 * [Vue.component VS Vue.extend VS Vue.mixin VS new Vue](https://github.com/yan647/Blog/issues/14)
 
+# git学习笔记
+* [git stash相关](https://github.com/yan647/Blog/issues/15)
+
 # 《Effective TypeScript》重要章节翻译
 * [第一章 Item3](https://github.com/yan647/learnEffectiveTypeScript/blob/main/translation/item3.md)
 
