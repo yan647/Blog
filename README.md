@@ -33,3 +33,10 @@
 
 # 其他
 * [灰度测试](https://github.com/yan647/Blog/blob/master/AB%20Testing.md)
+
+# TODO：希望后续学习的主题
+* 纯函数：https://zhuanlan.zhihu.com/p/121627485
+* vue更新数组：https://segmentfault.com/a/1190000038142224
+* map forEach for循环的区别
+* 异步加载script,提高前端性能(defer和async属性的区别)  https://www.cnblogs.com/soyxiaobi/p/9519895.html
+* 
