@@ -18,6 +18,7 @@
 * [什么是代理及实现代理的7种方案](https://github.com/yan647/Blog/issues/12)
 * [eslint中extends plugin config的区别](https://github.com/yan647/Blog/issues/13)
 * [Vue.component VS Vue.extend VS Vue.mixin VS new Vue](https://github.com/yan647/Blog/issues/14)
+* [Vue如何记录上个路由的查询条件](https://github.com/yan647/exercise/blob/master/packages/learn_vue/doc/prevRouteQuery.md)
 
 # git学习笔记
 * [git stash相关](https://github.com/yan647/Blog/issues/15)
