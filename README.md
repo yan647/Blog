@@ -32,6 +32,9 @@
 # 读书笔记
 * [读书笔记《刷新：重新发现商业与未来》+《谁动了我的奶酪》](https://github.com/yan647/Blog/issues/20)
 
+# 大模型学习笔记
+* [大模型学习笔记](https://github.com/yan647/exercise/blob/master/packages/learn_chatGPT/GPTIntroduce.md)
+
 # 其他
 * [灰度测试](https://github.com/yan647/Blog/blob/master/AB%20Testing.md)
 
