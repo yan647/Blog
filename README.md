@@ -32,6 +32,7 @@
 
 # 读书笔记
 * [读书笔记《刷新：重新发现商业与未来》+《谁动了我的奶酪》](https://github.com/yan647/Blog/issues/20)
+* [读书笔记《10x程序员工作法》](https://github.com/yan647/exercise/blob/master/packages/reading_notes/10x_programmer_approach.md)
 
 # 大模型学习笔记
 * [大模型学习笔记](https://github.com/yan647/exercise/blob/master/packages/learn_chatGPT/GPTIntroduce.md)
